@@ -1,0 +1,62 @@
+{
+  "1": {
+    "name": "January",
+    "moon": "Full Wolf Moon",
+    "description": "Amid the cold and deep snows of midwinter, the wolf packs howled hungrily outside Indian villages. Thus, the name for January’s full Moon. Sometimes it was also referred to as the Old Moon, or the Moon After Yule. Some called it the Full Snow Moon, but most tribes applied that name to the next Moon."
+  },
+  "2": {
+    "name": "february",
+    "moon": "Full Snow Moon",
+    "description": "Since the heaviest snow usually falls during this month, native tribes of the north and east most often called February’s full Moon the Full Snow Moon. Some tribes also referred to this Moon as the Full Hunger Moon, since harsh weather conditions in their areas made hunting very difficult."
+  },
+  "3": {
+    "name": "march",
+    "moon": "Full Worm Moon",
+    "description": "As the temperature begins to warm and the ground begins to thaw, earthworm casts appear, heralding the return of the robins. The more northern tribes knew this Moon as the Full Crow Moon, when the cawing of crows signaled the end of winter; or the Full Crust Moon, because the snow cover becomes crusted from thawing by day and freezing at night. The Full Sap Moon, marking the time of tapping maple trees, is another variation. To the settlers, it was also known as the Lenten Moon, and was considered to be the last full Moon of winter."
+  },
+  "4": {
+    "name": "april",
+    "moon": "Full Pink Moon",
+    "description": "This name came from the herb moss pink, or wild ground phlox, which is one of the earliest widespread flowers of the spring. Other names for this month’s celestial body include the Full Sprouting Grass Moon, the Egg Moon, and among coastal tribes the Full Fish Moon, because this was the time that the shad swam upstream to spawn."
+  },
+  "5": {
+    "name": "may",
+    "moon": "Full Flower Moon",
+    "description": "In most areas, flowers are abundant everywhere during this time. Thus, the name of this Moon. Other names include the Full Corn Planting Moon, or the Milk Moon."
+  },
+  "6": {
+    "name": "june",
+    "moon": "Full Strawberry Moon",
+    "description": "This name was universal to every Algonquin tribe. However, in Europe they called it the Rose Moon. Also because the relatively short season for harvesting strawberries comes each year during the month of June . . . so the full Moon that occurs during that month was christened for the strawberry!"
+  },
+  "7": {
+    "name": "july",
+    "moon": "The Full Buck Moon",
+    "description": "July is normally the month when the new antlers of buck deer push out of their foreheads in coatings of velvety fur. It was also often called the Full Thunder Moon, for the reason that thunderstorms are most frequent during this time. Another name for this month’s Moon was the Full Hay Moon."
+  },
+  "8": {
+    "name": "august",
+    "moon": "Full Sturgeon Moon",
+    "description": "The fishing tribes are given credit for the naming of this Moon, since sturgeon, a large fish of the Great Lakes and other major bodies of water, were most readily caught during this month. A few tribes knew it as the Full Red Moon because, as the Moon rises, it appears reddish through any sultry haze. It was also called the Green Corn Moon or Grain Moon."
+  },
+  "9": {
+    "name": "september",
+    "moon": "Full Harvest Moon",
+    "description": "This full moon’s name is attributed to Native Americans because it marked when corn was supposed to be harvested. Most often, the September full moon is actually the Harvest Moon, which is the full Moon that occurs closest to the autumn equinox. In two years out of three, the Harvest Moon comes in September, but in some years it occurs in October. At the peak of harvest, farmers can work late into the night by the light of this Moon. Usually the full Moon rises an average of 50 minutes later each night, but for the few nights around the Harvest Moon, the Moon seems to rise at nearly the same time each night: just 25 to 30 minutes later across the U.S., and only 10 to 20 minutes later for much of Canada and Europe. Corn, pumpkins, squash, beans, and wild rice the chief Indian staples are now ready for gathering."
+  },
+  "10": {
+    "name": "october",
+    "moon": "Full Hunter’s Moon",
+    "description": "This full Moon is often referred to as the Full Hunter’s Moon, Blood Moon, or Sanguine Moon. Many moons ago, Native Americans named this bright moon for obvious reasons. The leaves are falling from trees, the deer are fattened, and it’s time to begin storing up meat for the long winter ahead. Because the fields were traditionally reaped in late September or early October, hunters could easily see fox and other animals that come out to glean from the fallen grains. Probably because of the threat of winter looming close, the Hunter’s Moon is generally accorded with special honor, historically serving as an important feast day in both Western Europe and among many Native American tribes."
+  },
+  "11": {
+    "name": "november",
+    "moon": "Full Beaver Moon",
+    "description": "This was the time to set beaver traps before the swamps froze, to ensure a supply of warm winter furs. Another interpretation suggests that the name Full Beaver Moon comes from the fact that the beavers are now actively preparing for winter. It is sometimes also referred to as the Frosty Moon."
+  },
+  "12": {
+    "name": "december",
+    "moon": "The Full Cold Moon",
+    "description": "During this month the winter cold fastens its grip, and nights are at their longest and darkest. It is also sometimes called the Moon before Yule. The term Long Night Moon is a doubly appropriate name because the midwinter night is indeed long, and because the Moon is above the horizon for a long time. The midwinter full Moon has a high trajectory across the sky because it is opposite a low Sun."
+  }
+}
