@@ -1,28 +1,20 @@
-// Was App.js
-import React, { Component } from 'react';
-import logo from './logo.svg';
-import {Link} from 'react-router'
-import './App.css';
+import React, { Component } from 'react'
+
+import './app.css'
+import FarmersAlm from './components/farmers'
 
 class App extends Component {
-  render() {
+  render () {
     return (
-      <div className="App">
-        <div className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h2>React Router Tutorial</h2>
-        </div>
-        <p className="App-intro">
-          React Router!
+      <div className='app'>
+        <h2>Welcome to Reactddddd</h2>
+        <FarmersAlm />
+        <p className='app-intro'>
+          To get started, edit <code>src/app.js</code> and save to reload.
         </p>
-
-        <Link to="post/1">URL Parameter Example</Link><hr/>
-        <Link to="query">Query Example</Link><hr/>
-        <Link to="programmatic">Programmatic Example</Link><hr/>
-        <Link to="lkajsdklajdlkasjdkla">404 Example</Link><hr/>
       </div>
-    );
+    )
   }
 }
 
-export default App;
+export default App
